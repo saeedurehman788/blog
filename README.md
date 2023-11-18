@@ -9,4 +9,4 @@ Currently, two official plugins are available:
 <br>
 // This is my project.
 <br>
-Autor: Saeed Afghan
+Autor: Saeed Afghan.
